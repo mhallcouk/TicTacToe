@@ -2,60 +2,76 @@
 <items version="2" >
 
     <item
-        jar="/Users/mathewhall/AndroidStudioProjects/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        is-multidex="true"
+        jar="/Users/mathewhall/Development/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
-        <dex dex="/Users/mathewhall/AndroidStudioProjects/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_f793e5f5858f6c0e910ada4b414e80f9dcdaa633/classes.dex" />
-    </item>
-    <item
-        jar="/Users/mathewhall/AndroidStudioProjects/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="6d7d803871e3203465f71a163e7af104f807b446">
-        <dex dex="/Users/mathewhall/AndroidStudioProjects/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_a4fcb1cab352a2b471d945cfea99e627ca0a4aed/classes.dex" />
-    </item>
-    <item
-        jar="/Users/mathewhall/AndroidStudioProjects/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="f62e763609f65e47dc6c498760a4accf02776788">
-        <dex dex="/Users/mathewhall/AndroidStudioProjects/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_20e46b93a8af9f2aa7b0afed004a1cef72318e0a/classes.dex" />
-    </item>
-    <item
-        jar="/Users/mathewhall/AndroidStudioProjects/TicTacToe/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="0a559335bd4b9c6ed41b29ea504953157767a95f">
-        <dex dex="/Users/mathewhall/AndroidStudioProjects/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5fbca2f9d0ad088ebb32def5d64a5119e9fbf584/classes.dex" />
-    </item>
-    <item
-        jar="/Users/mathewhall/AndroidStudioProjects/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
-        <dex dex="/Users/mathewhall/AndroidStudioProjects/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_3b912fe934b85eb14a8453395b7af8e4c81f3af5/classes.dex" />
-    </item>
-    <item
-        jar="/Users/mathewhall/AndroidStudioProjects/TicTacToe/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="d3a3bea10afb50483639b29dae3bccd62b644a5a">
-        <dex dex="/Users/mathewhall/AndroidStudioProjects/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f4461169f8dc9679c603154e9d9ceb1de34a140e/classes.dex" />
-    </item>
-    <item
-        jar="/Users/mathewhall/AndroidStudioProjects/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
-        jumboMode="true"
+        optimize="true"
         revision="24.0.0"
         sha1="1256c10604bb098490eab070d76754ac5ceab35c">
-        <dex dex="/Users/mathewhall/AndroidStudioProjects/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_035dbc2cdff79c8cfd2ef43416dc0a5604ac721d/classes.dex" />
+        <dex dex="/Users/mathewhall/Development/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_21d5b614bc02dc50a4313a51658f26c8ff7db017/classes.dex" />
     </item>
     <item
+        is-multidex="true"
+        jar="/Users/mathewhall/Development/TicTacToe/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c8064c25286824023c8ab2a96616f5210571c742">
+        <dex dex="/Users/mathewhall/Development/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7848b7568d987328e2f91501966932cbc408958f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mathewhall/Development/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/mathewhall/Development/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_3e2800cba96e892ed0b51237c58888ee34fc965e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mathewhall/Development/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/mathewhall/Development/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_9ee63f0f15b705baa50892f9d20870da36d4b385/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/mathewhall/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
         jumboMode="true"
+        optimize="true"
         revision="24.0.0"
         sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
-        <dex dex="/Users/mathewhall/AndroidStudioProjects/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_3ee0bb227ec5f4fdfe1c03538d07759116ef8719/classes.dex" />
+        <dex dex="/Users/mathewhall/Development/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_3ee0bb227ec5f4fdfe1c03538d07759116ef8719/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mathewhall/Development/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/mathewhall/Development/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_d475db559618b6e1b4895126749422615278661a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mathewhall/Development/TicTacToe/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/mathewhall/Development/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_55a27ff7866a6b54eed75b3ae38b0c6be99224c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mathewhall/Development/TicTacToe/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c1b1d093641196bc4abd9f13cb731844fa95bfc4">
+        <dex dex="/Users/mathewhall/Development/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c6d8a1bf332ccbe46cfcadf2fbfe1c28878d6875/classes.dex" />
     </item>
 
 </items>
